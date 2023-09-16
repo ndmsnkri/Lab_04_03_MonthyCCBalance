@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17c874a1-4f13-4f1a-9c26-05355fa842ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="17c874a1-4f13-4f1a-9c26-05355fa842ac" name="Changes" comment="completed version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +26,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Jadfl/IdeaProjects/Lab_04_02_YearlyMaintenanceCost",
+    "last_opened_file_path": "C:/Users/Jadfl/IdeaProjects/Lab_04_04_EvenOdd",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,10 +59,24 @@
       <updated>1694802436857</updated>
       <workItem from="1694802437851" duration="355000" />
       <workItem from="1694854842495" duration="92000" />
+      <workItem from="1694855010078" duration="271000" />
     </task>
+    <task id="LOCAL-00001" summary="completed version">
+      <option name="closed" value="true" />
+      <created>1694855129097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694855129097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed version" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed version" />
   </component>
 </project>
